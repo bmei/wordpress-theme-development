@@ -19,5 +19,5 @@ training offered by LearnWebCode
 16. WordPress Custom Loop WP_Query
 17. WordPress Theme Color Customization
 
-Final product can be found [here](https://github.com/bmei/wordpress-theme-development/simple-yet-elegant)
+Final product can be found [here](https://github.com/bmei/wordpress-theme-development/tree/master/simpe-yet-elegant)
 

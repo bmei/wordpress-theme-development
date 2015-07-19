@@ -1,5 +1,5 @@
 ##WordPress Theme Development
-training offered by LearnWebCode
+training offered by [LearnWebCode](http://learnwebcode.com/learn-wordpress/)
 
 1. Introduction to WordPress
 2. How to Install WordPress
@@ -19,5 +19,6 @@ training offered by LearnWebCode
 16. WordPress Custom Loop WP_Query
 17. WordPress Theme Color Customization
 
-My final product can be found [here](https://github.com/bmei/wordpress-theme-development/tree/master/simpe-yet-elegant)
+My final product (PHP/HTML5/CSS3 scripts) can be found [here](https://github.com/bmei/wordpress-theme-development/tree/master/simpe-yet-elegant).
 
+Some screenshots of the theme can be found [here](https://github.com/bmei/wordpress-theme-development/blob/master/Screenshots%20of%20the%20Theme.pdf).

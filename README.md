@@ -21,4 +21,4 @@ training offered by [LearnWebCode](http://learnwebcode.com/learn-wordpress/)
 
 My final product (PHP/HTML5/CSS3 scripts) can be found [here](https://github.com/bmei/wordpress-theme-development/tree/master/simpe-yet-elegant).
 
-Some screenshots of the theme can be found [here](https://github.com/bmei/wordpress-theme-development/blob/master/Screenshots%20of%20the%20Theme.pdf).
+Some screenshots of the developed theme can be found [here](https://github.com/bmei/wordpress-theme-development/blob/master/Screenshots%20of%20the%20Theme.pdf).
